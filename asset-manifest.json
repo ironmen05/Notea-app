@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Notea-app/static/css/main.d2b287f0.css",
+    "main.js": "/Notea-app/static/js/main.5a8b11b4.js",
+    "index.html": "/Notea-app/index.html",
+    "main.d2b287f0.css.map": "/Notea-app/static/css/main.d2b287f0.css.map",
+    "main.5a8b11b4.js.map": "/Notea-app/static/js/main.5a8b11b4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2b287f0.css",
+    "static/js/main.5a8b11b4.js"
+  ]
+}
